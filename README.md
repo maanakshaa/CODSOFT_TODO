@@ -3,7 +3,6 @@
 ToDo - Task Manager
 <br>
 Organize your tasks efficiently with ToDo.<br>
-<br>
 Features:
 <br>	•	Create and track tasks.
 <br>	•	Set reminders.
