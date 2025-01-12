@@ -9,7 +9,7 @@ Features:
 <br>	•	Set reminders.
 <br>	•	Mark tasks as complete.
 <br>	•	View completed tasks.
-<br>
+<br><br>
 TimeTuner - Alarm App
 <br>
 Simplify alarm management with TimeTuner.<br>
@@ -18,7 +18,7 @@ Features:
 <br>	•	Manage alarms in a list.
 <br>	•	Timely notifications.
 <br>	•	Custom tones.
-<br>
+<br><br>
 Notify - Notification Creator
 <br>
 Create personalized notifications with Notify.<br>
